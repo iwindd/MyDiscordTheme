@@ -1,0 +1,24 @@
+{
+  "name": "MyTheme", 
+  "title": "My Discord Theme",
+  "version": "1.0.0",
+  "description": "none",
+  "scripts": {
+    "build": "npx gulp build",
+    "dev": "npx gulp dev"
+  },
+  "author": "iwindd",
+  "license": "ISC",
+  "path": "../",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-postcss": "^9.0.1",
+    "postcss": "^8.4.31",
+    "postcss-cli": "^10.1.0",
+    "postcss-csso": "^6.0.1",
+    "postcss-easy-import": "^4.0.0"
+  },
+  "dependencies": {}
+}

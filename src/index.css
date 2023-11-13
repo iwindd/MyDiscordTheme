@@ -1,0 +1,9 @@
+@import './components/chat.css';
+
+:root {
+  --background-tertiary: #333333;
+}
+
+.text{ 
+  color: wheat;
+}
