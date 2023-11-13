@@ -1,0 +1,19 @@
+:root{
+  --user-nametag: white;
+  --user-nametag-hover: #185e77;
+}
+
+.desaturateUserColors_b72bd3:hover{
+  background-color: var(--user-nametag-hover) !important;
+}
+
+.clickable_d866f1{
+  text-decoration: none !important;
+}
+
+.messageListItem__6a4fb{
+  transition: background 0.25s ease;
+}
+.messageListItem__6a4fb:hover{
+  background-color: #2f323b !important;
+}

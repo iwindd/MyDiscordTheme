@@ -1,1 +1,6 @@
+/* ROOT */
 @import './modules/font.css';
+@import './modules/background.css';
+
+/* COMPONENTS */
+@import './components/user.css';
